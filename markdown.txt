@@ -1,0 +1,46 @@
+# Heading
+____
+
+another Heading
+===============
+
+A lesser Heading
+-
+
+
+*some of the things*
+
+**some of the other things**
+
+Underlined
+> some  nice info panel in gray (qoute)
+several lines long.
+nice?
+
+
+#### an ordered list:
+1. list item
+2. list item
+3. list item
+
+####an unordered list:
+- list item 
+
+        list item paragraph
+- list item 
+- list item
+
+
+>this is called a qoute, I have now learned!
+
+
+<a>not markdown</a> but a HTML element
+[this is a markdown link](#)
+![Image](../../SHR_nettside/resources/media/dallesnekker.png) 
+
+[`inline code inside a link`](https://commonmark.org)
+~tilde~
+
+    several lines in a code block
+
+
